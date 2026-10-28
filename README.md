@@ -4,7 +4,7 @@ This repository holds my spatial history project for the Interconnected Places L
 
 ## About this project
 
-This project takes place in the Hill District during the era of urban renewal - the 50s up to the late 60s. It aims to map the displacement, urban decline, & population decline caused by projects like the highways & the Civic Arena, as well as the movement of people out of the neighborhood to other neighborhoods. My goal is to answer this question: how does large-scale clearing & development affect people, & where/who does it harm the most?
+This project takes place in the Hill District during the era of urban renewal - the 50s up to the late 60s. It aims to map the displacement, urban decline, & population decline caused by projects like the highways & the Civic Arena, as well as the movement of people out of the neighborhood to other neighborhoods. My goal is to answer this question: how does large-scale clearing & development affect people, & does this type of development really outweigh the harms they caused?
 ## The files
 
 - **`index(8).html`** — the interactive map. Your places are written inside this file, so this is the file you edit to make the map your own.
