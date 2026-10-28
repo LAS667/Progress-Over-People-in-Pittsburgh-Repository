@@ -1,4 +1,4 @@
-# Interconnected Places — Ohio River Cities Infrastructure & Architecture
+# Interconnected Places — Progress Over People in Pittsburgh
 
 This repository holds my spatial history project for the Interconnected Places Lab (HIST 1907). It maps one place and the places it was connected to.
 
