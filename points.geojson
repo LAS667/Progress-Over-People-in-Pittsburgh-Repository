@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "newpoints",
+"features": [
+{"type":"Feature","properties":{"label":"Pittsburgh - Pennsylvania, United States","Alt names":"Fort Duquesne, Fort Pitt, Fort Trent, Hothawikamiki, Menachk-sink, Pitts-Bourg, The Manor of Pittsburgh","Description":"MAIN PLACE","Type":null},"bbox":[-79.996754,40.439375,-79.996754,40.439375],"geometry":{"type":"Point","coordinates":[-79.996754,40.439375]}},
+{"type":"Feature","properties":{"label":"East Liberty - Pittsburgh, Pennsylvania, United States","Alt names":null,"Type":"Within"},"bbox":[-79.92483,40.46141,-79.92483,40.46141],"geometry":{"type":"Point","coordinates":[-79.92483,40.46141]}},
+{"type":"Feature","properties":{"label":"Oakland - Pittsburgh, Pennsylvania, United States","Alt names":null,"Type":"Within"},"bbox":[-79.956602,40.439182,-79.956602,40.439182],"geometry":{"type":"Point","coordinates":[-79.956602,40.439182]}},
+{"type":"Feature","properties":{"label":"Hill District - Pittsburgh, Pennsylvania, United States","Alt names":null,"Type":"Within"},"bbox":[-79.978894,40.444349,-79.978894,40.444349],"geometry":{"type":"Point","coordinates":[-79.978894,40.444349]}}
+]
+}
