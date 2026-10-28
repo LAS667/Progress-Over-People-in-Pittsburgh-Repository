@@ -4,13 +4,10 @@ This repository holds my spatial history project for the Interconnected Places L
 
 ## About this project
 
-This project starts at the city of Pittsburgh, exploring its unique geographical challenges and how it as a city approached building infrastructure
-& architecture. From there, I connect Pittsburgh to the other major cities on the river - Louisville, Cincinnati, Parkersburg - and connect them together
-by analyzing housing trends in the region, national trends (such as urban renewal & redlining), and shared histories.
-
+This project takes place in the Hill District during the era of urban renewal - the 50s up to the late 60s. It aims to map the displacement, urban decline, & population decline caused by projects like the highways & the Civic Arena, as well as the movement of people out of the neighborhood to other neighborhoods. My goal is to answer this question: how does large-scale clearing & development affect people, & where/who does it harm the most?
 ## The files
 
-- **`index.html`** — the interactive map. Your places are written inside this file, so this is the file you edit to make the map your own.
+- **`index(8).html`** — the interactive map. Your places are written inside this file, so this is the file you edit to make the map your own.
 - **`README.md`** — this page (the front page of the repository on GitHub).
 
 ## How to view the map
